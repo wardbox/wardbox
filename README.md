@@ -40,16 +40,6 @@ Existing drafting tools have several limitations:
 
 ---
 
-### [LetMeCook](https://letmecook.food)
-*A clean and simple cookbook with 100% good recipes*
-
-**Key features:**
-- ♿ Heavy focus on accessibility and simplicity
-- 🍽️ Strips back the noise to focus on the food
-- 👍 Voting system helps you find the best recipes
-
----
-
 ### [Wardstone](https://wardstone.io)
 *All-in-one platform for managing competitive League of Legends teams*
 

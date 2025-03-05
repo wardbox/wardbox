@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Wardbox!
+# 👋 Hello, I'm wardbox!
 
-## 🚀 Featured Projects
+*Web worker // right-brained human* ◢
 
 ### [ScoutAhead.pro](https://scoutahead.pro) 
 *A League of Legends drafting tool that supports series and fearless draft*

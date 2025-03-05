@@ -1,17 +1,61 @@
-### Hello Internet!
+# 👋 Hello, I'm Wardbox!
 
-I'm wardbox.
-<!--
-**wardbox/wardbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### [ScoutAhead.pro](https://scoutahead.pro) 
+*A League of Legends drafting tool that supports series and fearless draft*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Why it exists:**
+Existing drafting tools have several limitations:
+- ❌ One link per game - no support for series against a single team
+- ❌ No visualization of draft picks from previous games
+- ❌ Poor UI experience
+- ❌ No link recovery system
+
+**How ScoutAhead solves these problems:**
+- ✅ Support for multi-game series with a single link
+- ✅ View drafts from previous games in a series
+- ✅ Thoughtful, intuitive UI design
+- ✅ Persistent links for teams
+
+---
+
+### [TweetLaunch](https://tweetlaunch.com)
+*AI-powered thread generation for effective product launches*
+
+**Key features:**
+- 🤖 Multi-agent AI system for strategic content creation
+- 🎨 Adjustable tone and style to match your brand
+- 📊 Optimized thread structure for maximum impact
+
+---
+
+### [Roke](https://roke.dev)
+*A Full-Stack Wasp Starter with Modern UI Components*
+
+**Key features:**
+- 🏗️ Serves as a post-starter template for Wasp projects
+- ✨ Modern UI built with Shadcn/UI and Motion
+- 🧰 Everything you need to get started
+
+---
+
+### [LetMeCook](https://letmecook.food)
+*A clean and simple cookbook with 100% good recipes*
+
+**Key features:**
+- ♿ Heavy focus on accessibility and simplicity
+- 🍽️ Strips back the noise to focus on the food
+- 👍 Voting system helps you find the best recipes
+
+---
+
+### [Wardstone](https://wardstone.io)
+*All-in-one platform for managing competitive League of Legends teams*
+
+**Key features:**
+- 🎮 Interacts with the Riot Games API for player statistics
+- 📅 Team schedule and availability management
+- 👥 Multi-staff organization management
+
+---

@@ -2,7 +2,7 @@
 
 *Web worker // right-brained human* ◢
 
-### [ScoutAhead.pro](https://scoutahead.pro) 
+### [scoutahead.pro](https://scoutahead.pro) 
 *A League of Legends drafting tool that supports series and fearless draft*
 
 **Why it exists:**
